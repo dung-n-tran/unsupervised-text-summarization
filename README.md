@@ -14,4 +14,4 @@ Summarize Amazon product reviews using non-convex entropy minimization. The basi
 <img src="representative_Amazon_review.jpg" alt="Representative reviews" width="800"/>
 
 ### References
-[DN Tran, SP Chin, TD Tran, *"A provable nonconvex model for factoring nonnegative matrices"*, ICASSP (2017)](https://ieeexplore.ieee.org/document/7952559)
+DN Tran, SP Chin, TD Tran, [*"A provable nonconvex model for factoring nonnegative matrices"*](https://ieeexplore.ieee.org/document/7952559), ICASSP (2017)]
