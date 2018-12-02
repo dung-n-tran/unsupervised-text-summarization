@@ -13,3 +13,5 @@ Summarize Amazon product reviews using non-convex entropy minimization. The basi
 #### The representative reviews (below) chosen by the proposed algorithm not only represent key features of the product but also offer physical context, e.g., written by real users, which is lacked in word-counting based techniques such as PCA.
 <img src="representative_Amazon_review.jpg" alt="Representative reviews" width="800"/>
 
+### References
+DN Tran, SP Chin, TD Tran, *"A provable nonconvex model for factoring nonnegative matrices"*, ICASSP (2017).
