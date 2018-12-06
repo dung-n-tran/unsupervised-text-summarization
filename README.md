@@ -1,6 +1,6 @@
 
 # unsupervised-text-summarization
-Summarize Amazon product reviews using non-convex entropy minimization. The basic idea is to select a few representative reviews that fully characterize the product features. This can be done by looking for a sparse representation of the entire dataset in an appropriate dictionary under some carefully designed criteria. This sparse representation then corresponds to the selected representatives.  
+Summarize Amazon product reviews using non-convex entropy minimization. The basic idea is to select a few representative reviews that fully characterize the product features. This can be done by looking for a sparse representation of the entire dataset in an appropriate dictionary under some carefully designed criteria. This sparse representation then corresponds to the selected representatives. Nonconvex entropy minimization is used to find such representation efficiently.
 
 Walkthrough code: [rem_amazon_review_summarization.ipynb](https://github.com/dung-n-tran/unsupervised-text-summarization/blob/master/rem_amazon_review_summarization.ipynb) (Python + Pandas)
 
